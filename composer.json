@@ -17,6 +17,10 @@
 		"source": "https://github.com/janisto/yii-ycm"
 	},
 	"require": {
-		"php": ">=5.1.0"
-	}
+		"php": ">=5.1.0",
+        "crisu83/yiistrap": "1.2.2"
+	},
+    "require-dev": {
+        "codeception/codeception": "1.8.*@dev"
+    }
 }

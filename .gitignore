@@ -27,3 +27,7 @@ nbproject
 .CVS
 intermediate
 publish
+
+/.idea/
+/main.iml
+/vendor/
