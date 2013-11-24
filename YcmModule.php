@@ -83,8 +83,7 @@ class YcmModule extends CWebModule
 			'preload'=>array('bootstrap'),
 			'components'=>array(
 				'bootstrap'=>array(
-					'class'=> 'bootstrap.components.TbApi',
-					'responsiveCss'=>true,
+					'class'=> 'bootstrap.components.TbApi'
 				),
 			),
 		));
